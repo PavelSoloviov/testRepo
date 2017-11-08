@@ -7,6 +7,7 @@
 //
 
 #import "ViewController.h"
+#import "Model.h"
 
 @interface ViewController ()
 
@@ -19,11 +20,6 @@
     NSLog(@"Hello!");
 }
 
-
-- (void)didReceiveMemoryWarning {
-    [super didReceiveMemoryWarning];
-    // Dispose of any resources that can be recreated.
-}
 
 
 @end
